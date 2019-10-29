@@ -223,16 +223,6 @@ public class DataImport {
 		}
 		
 		
-//		try {
-//			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(OUTPUT_FILE));
-//			oos.writeObject(instances);
-//			oos.close();
-//		} catch (FileNotFoundException e) {
-//			e.printStackTrace();
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		}
-		
 		return instances;
 	}
 }
