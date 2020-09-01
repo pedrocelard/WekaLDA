@@ -31,8 +31,15 @@ java -jar -Xmx5000m .\LDA.jar
 ## GUI plugin installation
 If you prefer to install the plugin separately in an existing Weka build, you can do it through the GUI provided by the tool.
 
- - 
- - 
+ - The first step is to access the top menu of the initial weka window and select the package manager (Tools> Package Manager)
+ 
+ <img src="https://github.com/pedrocelard/WekaLDA/blob/master/UssageImgs/7_accessPackagemanager.jpg?raw=true" width="300">
+ 
+ - The second step is to select the .jar package from our filesystem through the File/URL button.
+ 
+ <img src="https://github.com/pedrocelard/WekaLDA/blob/master/UssageImgs/8_loadfile.JPG?raw=true" width="500">
+ 
+ - Once installed the plugin will appear in the list below.
 
 
 ## Plugin ussage
