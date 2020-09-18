@@ -71,3 +71,24 @@ When you have selected the corpus and the filter, all you have to do is press th
 As soon as the results of having applied the filter are obtained, a classifier can be applied to it as is done in the normal way in Weka. Below you can see a brief example of the result of applying an SVM classifier.
 
 <img src="https://github.com/pedrocelard/WekaLDA/blob/master/UssageImgs/6_applyClassifier.png?raw=true" width="500">
+
+
+
+
+## Experiment data sets
+
+
+In order to test this tool, the data sets Ohsumed C04, 20News, Reuters, TREC Allele, Yelp Polarity,
+and Yahoo! Answers are used. These corpus can be downloaded from their respective websites:
+
+● Ohsumed: https://dmice.ohsu.edu/hersh/ohsumed/
+
+● 20News: http://qwone.com/~jason/20Newsgroups/
+
+● Reuters: https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
+
+● TREC Allele: https://trec.nist.gov/data/t14_genomics.html
+
+● Yelp Polarity: https://www.yelp.com/dataset
+
+● Yahoo! Answers: https://webscope.sandbox.yahoo.com/#datasets
